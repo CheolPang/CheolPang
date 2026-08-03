@@ -6,7 +6,7 @@
 ## 🚀 Projects
 - WeaAir (프로젝트 진행 중): <a href="https://github.com/CheolPang/WeaAir">repo</a> | 웹개발기능반 활동의 일환으로 팀원들과 함께 개발 중인 JSP 기반 기상정보 조회 웹 프로젝트입니다.
 - TIS: <a href="https://github.com/CheolPang/TIS">repo</a> | Roblox 게임 '남청철도 | Namcheong Rail'​의 API를 활용하여 실시간 열차 운행 정보를 제공하는 웹 프로젝트입니다.
-- CPShop (26_mirae_project): <a href="https://github.com/CheolPang/26_mirae_project">repo</a> | 고용노동부 미래유망분야 고졸인력양성사업 과정에서 제작한 JSP 및 Bootstrap 기반 웹 프로젝트입니다.
+- CPShop (26_mirae_project / 프로젝트 진행 중): <a href="https://github.com/CheolPang/26_mirae_project">repo</a> | 고용노동부 미래유망분야 고졸인력양성사업 과정에서 제작한 JSP 및 Bootstrap 기반 웹 프로젝트입니다.
 - 철팽끄투 (KKuTu) 프리서버: <a href="https://github.com/CheolPang/KKuTu">repo</a> | 웹 개발을 처음 접하며 제작·운영했던 프로젝트입니다. 오픈소스로 배포된 KKuTu를 기반으로 서버를 구축하고 운영했습니다.
 - 산성비 (AcidRain): <a href="https://github.com/cookieleeuns/AcidRain">repo</a> | 통합과학 1 프로젝트 과제로 제작한 웹 프로젝트입니다. 한글과컴퓨터의 '산성비'에서 영감을 받아 개발했습니다.
 - CPPlatform_Mirror: <a href="https://github.com/CheolPang/CPPlatform_Mirror">repo</a> | CPPlatform Mirror의 현재 서비스 상태를 실시간으로 확인할 수 있도록 제작한 웹 프로젝트입니다.
